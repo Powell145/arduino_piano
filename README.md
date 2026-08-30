@@ -5,8 +5,6 @@
 ## 📸 Фото
 ![Фото](photo.jpg)
 
-## 🎥 Демонстрация
-[Смотреть проект в Tinkercad](https://www.tinkercad.com/things/7f9MxGDl6jj/editel?sharecode=L64X4-BwASu5j98vPRgmMzA7RAjG8QgW349dirvLY9A)
 
 ## 📐 Схема
 ![Схема](schematic.png)
